@@ -16,8 +16,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.houdhaifa.service.UserService;
 import com.houdhaifa.spring.entity.User;
+import com.houdhaifa.spring.service.UserService;
 
 /**
  * @author Houdhaifa Hamza

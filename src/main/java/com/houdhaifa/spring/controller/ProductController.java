@@ -16,8 +16,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.houdhaifa.service.ProductService;
 import com.houdhaifa.spring.entity.Product;
+import com.houdhaifa.spring.service.ProductService;
 
 /**
  * @author Houdhaifa Hamza

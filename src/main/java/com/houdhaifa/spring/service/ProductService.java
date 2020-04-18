@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.houdhaifa.service;
+package com.houdhaifa.spring.service;
 
 import java.util.List;
 

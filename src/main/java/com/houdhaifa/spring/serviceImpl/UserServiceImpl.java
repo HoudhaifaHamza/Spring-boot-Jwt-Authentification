@@ -9,9 +9,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
-import com.houdhaifa.service.UserService;
 import com.houdhaifa.spring.entity.User;
 import com.houdhaifa.spring.repository.UserRepository;
+import com.houdhaifa.spring.service.UserService;
 
 /**
  * @author Houdhaifa Hamza

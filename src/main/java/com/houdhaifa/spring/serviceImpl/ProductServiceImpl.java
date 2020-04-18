@@ -8,9 +8,9 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.houdhaifa.service.ProductService;
 import com.houdhaifa.spring.entity.Product;
 import com.houdhaifa.spring.repository.ProductRepository;
+import com.houdhaifa.spring.service.ProductService;
 
 /**
  * @author Houdhaifa Hamza
